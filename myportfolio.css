@@ -1,0 +1,86 @@
+body{
+	background: white;
+}
+h1{
+	color: black;
+	font-style: italic;
+	font-weight: 100;
+	text-decoration: underline;
+		text-decoration-color: lightgray;
+		text-decoration-thickness: 3px;
+		font-size: 25px;
+}
+
+main1{
+	display: grid;
+	background: ghostwhite;
+	margin-top: 30px;
+	gap: 50px;
+	align align-content: start;
+	width: 300px;
+	height: 170px;
+	font-style: italic;
+	border-radius: 10px;
+
+
+}
+
+p{
+	font-style: initial;
+	font-weight: 300;
+}
+main2{
+	display: grid;
+	background: ghostwhite;
+	margin-top: 30px;
+	gap: 50px;
+	align align-content: start;
+	width: 300px;
+	height: 100px;
+	font-style: italic;
+	border-radius: 10px;
+}
+main3{
+	display: grid;
+	background: ghostwhite;
+	margin-top: 30px;
+	gap: 50px;
+	align align-content: start;
+	width: 300px;
+	height: 100px;
+	font-style: italic;
+	border-radius: 10px;
+}
+main4{
+	display: grid;
+	background: ghostwhite;
+	margin-top: 30px;
+	gap: 50px;
+	align align-content: start;
+	width: 300px;
+	height: 150px;
+	font-style: italic;
+	border-radius: 10px;
+}
+main5{
+	display: grid;
+	background: ghostwhite;
+	margin-top: 30px;
+	gap: 50px;
+	align align-content: start;
+	width: 300px;
+	height: 100px;
+	font-style: italic;
+	border-radius: 10px;
+}
+main6{
+	display: grid;
+	background: ghostwhite;
+	margin-top: 30px;
+	gap: 50px;
+	align align-content: start;
+	width: 300px;
+	height: 100px;
+	font-style: italic;
+	border-radius: 10px;
+}
